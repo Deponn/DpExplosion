@@ -1,0 +1,4 @@
+name: DpExplosion
+version: '${version}'
+main: deponn50nin.dpexplosion.DpExplosion
+api-version: '1.20'
